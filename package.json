@@ -62,7 +62,7 @@
     "@azure/msal-node": "^1.14.4"
   },
   "engines": {
-    "node": "6",
+    "node": "20",
     "npm": "3"
   }
 }

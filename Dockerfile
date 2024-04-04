@@ -1,4 +1,4 @@
-FROM node:6
+FROM node:20
 
 # Create app directory
 WORKDIR /var/app/project

@@ -59,7 +59,7 @@
     "sparkpost": "^2.1.4",
     "winston": "^3.2.1",
     "xss": "^1.0.8",
-    "@azure/msal-node": "^1.14.4"
+    "@azure/msal-node": "^2.0.0"
   },
   "engines": {
     "node": "6",
